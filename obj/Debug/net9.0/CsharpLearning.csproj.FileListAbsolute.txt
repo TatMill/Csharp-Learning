@@ -1,0 +1,15 @@
+C:\Users\TaTMill\source\repos\CsharpLearning\bin\Debug\net9.0\CsharpLearning.exe
+C:\Users\TaTMill\source\repos\CsharpLearning\bin\Debug\net9.0\CsharpLearning.deps.json
+C:\Users\TaTMill\source\repos\CsharpLearning\bin\Debug\net9.0\CsharpLearning.runtimeconfig.json
+C:\Users\TaTMill\source\repos\CsharpLearning\bin\Debug\net9.0\CsharpLearning.dll
+C:\Users\TaTMill\source\repos\CsharpLearning\bin\Debug\net9.0\CsharpLearning.pdb
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.AssemblyInfoInputs.cache
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.AssemblyInfo.cs
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.sourcelink.json
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.dll
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\refint\CsharpLearning.dll
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.pdb
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\CsharpLearning.genruntimeconfig.cache
+C:\Users\TaTMill\source\repos\CsharpLearning\obj\Debug\net9.0\ref\CsharpLearning.dll
