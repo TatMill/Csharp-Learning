@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{EBD912AE-D8B3-0BBC-6BA1-737B7F8B6965}|CsharpLearning.csproj|solutionrelative:models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD912AE-D8B3-0BBC-6BA1-737B7F8B6965}|CsharpLearning.csproj|c:\\users\\tatmill\\source\\repos\\csharplearning\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD912AE-D8B3-0BBC-6BA1-737B7F8B6965}|CsharpLearning.csproj|solutionrelative:building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBD912AE-D8B3-0BBC-6BA1-737B7F8B6965}|CsharpLearning.csproj|c:\\users\\tatmill\\source\\repos\\csharplearning\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD912AE-D8B3-0BBC-6BA1-737B7F8B6965}|CsharpLearning.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Building.cs",
-              "DocumentMoniker": "C:\\Users\\TaTMill\\source\\repos\\CsharpLearning\\Building.cs",
-              "RelativeDocumentMoniker": "Building.cs",
-              "ToolTip": "C:\\Users\\TaTMill\\source\\repos\\CsharpLearning\\Building.cs",
-              "RelativeToolTip": "Building.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T17:14:34.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\TaTMill\\source\\repos\\CsharpLearning\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
@@ -61,10 +44,9 @@
               "RelativeDocumentMoniker": "Models\\Human.cs",
               "ToolTip": "C:\\Users\\TaTMill\\source\\repos\\CsharpLearning\\Models\\Human.cs",
               "RelativeToolTip": "Models\\Human.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T17:45:50.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T17:45:50.286Z"
             },
             {
               "$type": "Document",
@@ -72,9 +54,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TaTMill\\source\\repos\\CsharpLearning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\TaTMill\\source\\repos\\CsharpLearning\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\TaTMill\\source\\repos\\CsharpLearning\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T17:45:46.645Z",
               "EditorCaption": ""
