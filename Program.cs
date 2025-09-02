@@ -1,6 +1,6 @@
-﻿Human human = new();
-Teacher teacher = new();
-human.Walk();
+﻿using System.Runtime.CompilerServices;
+using Models;
+Teacher teacher = new("Алиса", 43);
 teacher.Walk();
 
 
@@ -41,23 +41,24 @@ foreach (int n in biggerThanAverage)
 
 Car shevrolet = new();
 
-shevrolet.model = "Niva";
+shevrolet._model = "Niva";
 shevrolet.color = "Grey";
-shevrolet.price = "4999$";
+shevrolet.price = 4999;
 
 shevrolet.Info();
-class Car
+
+Human man = new ("Tom", 42);
+
+Console.WriteLine(man);
+
+man.Walk();
+
+
+int[] lol = {1,2,3,4,5,6,7,8,9,10};
+int a = 123;
+string b = a.ToString();
+for (int i = b.Length - 1; i >= 0 ; i--)
 {
-    public string model;
-    public string color;
-    public string price;
-
-
-    public void Info()
-    {
-        Console.WriteLine($"Модель{model} \tЦвет {color} \tЦена{price} ");
-    }
+    System.Console.WriteLine(b[i]);
 }
-
-
 
